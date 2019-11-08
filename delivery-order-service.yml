@@ -18,7 +18,7 @@ spring:
         driver-class-name: com.mysql.jdbc.Driver
         password: 'root'
         platform: mysql
-        url: jdbc:mysql://localhostlocalhost:33306/deliveryorder
+        url: jdbc:mysql://localhost:33306/deliveryorder
         username: root
     jpa:
         database-platform: org.hibernate.dialect.MySQLDialect
